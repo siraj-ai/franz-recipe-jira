@@ -7,8 +7,6 @@
   "author": "Pete Lambert <pete@petelambert.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://{teamId}.atlassian.net/secure/Dashboard.jspa",
-    "hasTeamId": true,
-    "urlInputSuffix": true
+    "hasCustomUrl": true,
   }
 }
